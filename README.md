@@ -1,3 +1,5 @@
+![App Screenshot](screenshot.png)
+
 # Mortgage Calculator
 
 A Streamlit application that helps users calculate mortgage payments and visualize the amortization schedule.
